@@ -580,7 +580,7 @@ class jDateTime
                 $ret = 'تیر';
                 break;
             case '5':
-                $ret = 'امرداد';
+                $ret = 'مرداد';
                 break;
             case '6':
                 $ret = 'شهریور';
