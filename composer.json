@@ -1,5 +1,5 @@
 {
-    "name": "thisismzm/jalali",
+    "name": "morilog/jalali",
     "description": "This Package helps developers to easily work with Jalali (Shamsi or Iranian) dates in PHP applications, based on Jalali (Shamsi) DateTime class.",
     "license": "MIT",
     "type": "library",
